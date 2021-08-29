@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map for DFPlayer_Mudah
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+mp3_set_reply	KEYWORD2
+mp3_set_serial	KEYWORD2
+mainkan	KEYWORD2
+inisial KEYWORD2
+atur_suara KEYWORD2
+lanjut KEYWORD2
+mundur KEYWORD2
+			
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
